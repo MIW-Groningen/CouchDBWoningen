@@ -29,9 +29,9 @@ public class CouchDBaccess {
         properties.setProtocol("http");
 
         //uncomment to set the username
-         properties.setUsername("admin");
+//         properties.setUsername("admin");
         //uncomment to set the password
-         properties.setPassword("admin");
+//         properties.setPassword("admin");
         //Create the database client and setup the connection with given 
         //properties
 

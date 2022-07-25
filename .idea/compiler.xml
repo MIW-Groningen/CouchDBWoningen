@@ -9,6 +9,8 @@
         <module name="CouchDBWoningen" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="11">
+      <module name="CouchDBWoningen" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
